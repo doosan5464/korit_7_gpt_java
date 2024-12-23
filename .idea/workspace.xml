@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d79e9e40-c8a7-4fba-9cf4-2716de464236" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/korit/main/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/korit/main/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/korit/main/Main6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,8 @@
     "Application.Main.executor": "Run",
     "Application.Main4.executor": "Run",
     "Application.Main5.executor": "Run",
+    "Application.Main6.executor": "Run",
+    "Application.Main7.executor": "Run",
     "Application.main4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,7 +77,8 @@
       <updated>1734596001986</updated>
       <workItem from="1734596004032" duration="34000" />
       <workItem from="1734656372183" duration="125000" />
-      <workItem from="1734656513241" duration="14194000" />
+      <workItem from="1734656513241" duration="16207000" />
+      <workItem from="1734912787240" duration="13717000" />
     </task>
     <servers />
   </component>
